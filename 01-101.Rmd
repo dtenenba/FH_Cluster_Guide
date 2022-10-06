@@ -535,7 +535,7 @@ The Scientific Computing group in IT manages the cluster, provides support with 
 
 ## Send an Email {-}
 
-The primary way you can request help for a problem is to send SciComp an email, so a ticket will be created in their tracking system.  This allows the details of the problem you're having to be sent to them so they can better help you. Submitting a good email ticket helps the SciComp Team address your needs quickly and efficiently. We suggest you submit the following information:
+The primary way you can request help for a problem is to send `SciComp` an email, so a ticket will be created in their tracking system.  This allows the details of the problem you're having to be sent to them so they can better help you. Submitting a good email ticket helps the SciComp Team address your needs quickly and efficiently. We suggest you submit the following information:
 
 1.  A brief overview of what the problem is.
 1.  Some specifics about the problem, such as the full text (it's ok if it's long) of any error message or terminal command, or a screen shot of the interface you were using when you had the problem. 
